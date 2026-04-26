@@ -1,4 +1,4 @@
-# Algoritmos y Estructuras de Datos
+# Algoritmos y Estructura de Datos
 
 * **Curso:** K1053
 * **Año:** 2026
