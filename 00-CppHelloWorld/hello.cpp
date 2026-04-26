@@ -8,7 +8,7 @@ int main(){
 
     std::string curso = "K1053\n";
     std::cout << curso;
-
+    
     int grupo = 8;   
     std::cout << grupo;
 }
